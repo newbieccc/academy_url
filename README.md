@@ -173,6 +173,8 @@
 
 - [MyBatis 3 | Introduction](https://mybatis.org/mybatis-3/)
 
+- [eGovFrame 표준 pagination](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:rte:ptl:view:paginationtag)
+
 ### 8. DB
 
 - [MariaDB - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/MariaDB)
