@@ -337,7 +337,7 @@
 - [자바 java 연습문제 & 풀이 약 200문제 - 네이버 블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=castello&logNo=220629817683)
 
 
-~~~
+```
 ### 잡동사니
 
 [Go Online Compiler & Interpreter - Replit](https://replit.com/languages/go)
@@ -350,4 +350,4 @@
 
 [코딩교육, 교재도 교사도 없는 까닭 | 다음뉴스 - Daum](https://news.v.daum.net/v/20220417201603520)
 
-~~~
+```
