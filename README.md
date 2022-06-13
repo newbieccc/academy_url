@@ -348,6 +348,4 @@
 
 [한글 음절 영역 코드표(Hangul Syllables, AC00-D7AF) - PDF](https://www.unicode.org/charts/PDF/UAC00.pdf)
 
-[코딩교육, 교재도 교사도 없는 까닭 | 다음뉴스 - Daum](https://news.v.daum.net/v/20220417201603520)
-
 ```
