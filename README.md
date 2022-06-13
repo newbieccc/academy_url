@@ -348,8 +348,6 @@
 
 [한글 음절 영역 코드표(Hangul Syllables, AC00-D7AF) - PDF](https://www.unicode.org/charts/PDF/UAC00.pdf)
 
-[펌)게임업계 사상 최강의 개발자.jpg - 자게이](http://jagei.net/idx/184643README.md)
-
 [코딩교육, 교재도 교사도 없는 까닭 | 다음뉴스 - Daum](https://news.v.daum.net/v/20220417201603520)
 
 ~~~
