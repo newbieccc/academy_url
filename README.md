@@ -119,6 +119,12 @@
 
 - [라디오버튼(Radio Button) - HTML 고급 강좌](http://www.homejjang.com/05/RadioButton.php)
 
+- [[HTML] HTML 특수문자 코드표 정리 - PostIT](https://postitforhooney.tistory.com/entry/HTML-HTML-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EC%BD%94%EB%93%9C%ED%91%9C-%EC%A0%95%EB%A6%AC)
+
+- [word-break를 사용하여 div 태그 크기에 맞추어 자동으로 줄바꿈 하기](https://blog.naver.com/PostView.nhn?blogId=dlghks44&logNo=221617463905&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search)
+
+- [<form> 태그의 accept-charset 속성 - 코딩의 시작, TCP School](http://www.tcpschool.com/html-tag-attrs/form-accept-charset)
+
 ### 4. CSS
 
 - [CSS의 fixed position으로 메뉴바 상단 고정](https://www.daleseo.com/css-position-fixed-navigation/)
@@ -142,6 +148,8 @@
 - [자바스크립트 개요 | 코딩의 시작, TCP School](http://www.tcpschool.com/javascript/intro)
 
 - [(즐거웅코드) 제이쿼리 background-color 변경하기](https://ungdoli0916.tistory.com/735)
+
+- [Alert, Confirm을 모달 팝업으로 만들기 - 개발 흔적 남기기](https://myhappyman.tistory.com/179)
 
 ### 6.JSP
 
@@ -174,6 +182,10 @@
 - [MyBatis 3 | Introduction](https://mybatis.org/mybatis-3/)
 
 - [eGovFrame 표준 pagination](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:rte:ptl:view:paginationtag)
+
+- [SpringBoot Controller, Service, DAO 이해 - Trace -](https://onlyformylittlefox.tistory.com/13)
+
+- [[MyBatis] 동적 쿼리 if문 문법 총 정리 -.java의 개발일기](https://java119.tistory.com/42)
 
 ### 8. DB
 
@@ -291,6 +303,12 @@
 - [면접을 위한 CS 전공지식 노트 - YES24](http://www.yes24.com/Product/Goods/108887922)
 
 - [지식덤프](http://www.jidum.com/jidums/view.do)
+
+- [Freenom - A Name for Everyone](https://www.freenom.com/en/index.html?lang=en)
+
+- [아이콘 세트를 만드는 방법 | Adobe Illustrator 자습서](https://helpx.adobe.com/kr/illustrator/how-to/create-set-icons.html)
+
+- [Web Buttons Icon Pack | Blue | 50 .SVG Icons - Flaticon](https://www.flaticon.com/packs/web-buttons-5) - 아이콘
 
 ### 미분류
 
