@@ -223,6 +223,8 @@
 
 - [[Linux] 패키지 관리 방법](https://freehoon.tistory.com/43)
 
+- [[vi 명령어] vi 명령어 정리 - 개발자 지망생](https://blockdmask.tistory.com/25)
+
 ### 11.알고리즘
 
 - [(정보처리기사)(알고리즘)(수학) 10진수를 2진수로 변환하기](https://fumin.tistory.com/86)
