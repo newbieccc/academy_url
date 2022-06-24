@@ -147,6 +147,10 @@
 
 - [[CSS] 미디어쿼리(Media Query)의 기본사용법](https://log.designichthus.com/11)
 
+- [정규 표현식을 위한 도구들 - 생활코딩](https://opentutorials.org/course/909/5144)
+
+- [정규 표현식 만들기 - 블로그 홈](https://qqqqqq.tistory.com/entry/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 ### 5.js
 
 - [자바스크립트 개요 | 코딩의 시작, TCP School](http://www.tcpschool.com/javascript/intro)
@@ -154,6 +158,12 @@
 - [(즐거웅코드) 제이쿼리 background-color 변경하기](https://ungdoli0916.tistory.com/735)
 
 - [Alert, Confirm을 모달 팝업으로 만들기 - 개발 흔적 남기기](https://myhappyman.tistory.com/179)
+
+- [정규 표현식 - JavaScript - MDN Web Docs](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+- [regular expressions 101 - 정규표현식을 만들어주는 사이트](https://codedragon.tistory.com/7473)
+
+- [자바스크립트 정규표현식 (Regular expression)](https://ttum.tistory.com/37)
 
 ### 6.JSP
 
@@ -190,6 +200,14 @@
 - [SpringBoot Controller, Service, DAO 이해 - Trace -](https://onlyformylittlefox.tistory.com/13)
 
 - [[MyBatis] 동적 쿼리 if문 문법 총 정리 -.java의 개발일기](https://java119.tistory.com/42)
+
+- [JSON 구조 - 코딩의 시작, TCP School](http://www.tcpschool.com/json/json_basic_structure)
+
+- [JSON.org](https://www.json.org/json-en.html)
+
+- [[Java] Gson 라이브러리 사용법 및 예제 ( Json 생성, 변환 )](https://hianna.tistory.com/629)
+
+- [XML Viewer - Code Beautify](https://codebeautify.org/xmlviewer)
 
 ### 8. DB
 
@@ -317,6 +335,10 @@
 - [Web Buttons Icon Pack | Blue | 50 .SVG Icons - Flaticon](https://www.flaticon.com/packs/web-buttons-5) - 아이콘
 
 - [공공데이터포털](https://www.data.go.kr/)
+
+- [Freenom - A Name for Everyone](https://www.freenom.com/en/index.html?lang=en)
+
+- [Tomcat JSP 호스팅 - 스페셜호스팅](https://hosting.cafe24.com/?controller=product_page&type=special&page=tomcat)
 
 ### 미분류
 
