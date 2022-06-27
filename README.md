@@ -164,6 +164,10 @@
 - [regular expressions 101 - 정규표현식을 만들어주는 사이트](https://codedragon.tistory.com/7473)
 
 - [자바스크립트 정규표현식 (Regular expression)](https://ttum.tistory.com/37)
+  
+- [자바스크립트에서 날짜 시간부분에서 Uncaught SyntaxError](https://okky.kr/article/322784)
+
+- [jQuery의 each() 메서드 ](https://webclub.tistory.com/455)
 
 ### 6.JSP
 
@@ -208,6 +212,14 @@
 - [[Java] Gson 라이브러리 사용법 및 예제 ( Json 생성, 변환 )](https://hianna.tistory.com/629)
 
 - [XML Viewer - Code Beautify](https://codebeautify.org/xmlviewer)
+
+- [Online JSON Viewer](http://jsonviewer.stack.hu/)
+
+- [Unexpected token o in JSON at position 1 해결 방법 - 코딩병원](https://itprogramming119.tistory.com/entry/%EC%97%90%EB%9F%AC%EC%BD%94%EB%93%9C-04-Unexpected-token-o-in-JSON-at-position-1)
+
+- [Java String을 Json으로, Json을 String으로 변환](https://3edc.tistory.com/15)
+
+- [[Java] 1. 클라이언트 실제 접속 IP 가져오기 - linked2ev](https://linked2ev.github.io/java/2019/05/22/JAVA-1.-java-get-clientIP/)
 
 ### 8. DB
 
