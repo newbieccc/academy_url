@@ -352,6 +352,14 @@
 
 - [Tomcat JSP 호스팅 - 스페셜호스팅](https://hosting.cafe24.com/?controller=product_page&type=special&page=tomcat)
 
+- [픽셀 재는 프로그램, 자 사이트 - 설찬범의 파라다이스](https://schbeom.tistory.com/370)
+
+- [카카오 오븐](https://ovenapp.io/)
+
+- [[앱 비지니스 기획] 카카오 오븐으로 기획서 만들기](https://codenet.tistory.com/25)
+
+- [네이버 로그인 API 명세 - LOGIN](https://developers.naver.com/docs/login/api/api.md)
+
 ### 미분류
 
 - [16진수 2진수 10진수 8진수 변환표; Hex 헥사 값 대조표](http://mwultong.blogspot.com/2007/12/16-2-10-8-hex.html)
