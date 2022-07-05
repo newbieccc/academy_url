@@ -43,6 +43,8 @@
 
 - [IT 기술 노트 - WikiDocs](https://wikidocs.net/book/2184)
 
+- [자료구조와 알고리즘, 왜 중요할까? - 프로그래머스 공식 블로그](https://prgms.tistory.com/134)
+
 ### 2. Java
 
 - [Java의 데이터 타입의 분류(기본 타입, 참조 타입)와 메모리 영역](https://kingpodo.tistory.com/54)
@@ -244,6 +246,8 @@
 - [테이블 명세서 만들기 - mini's blog](https://minbbal.tistory.com/18)
 
 - [ERD 협업! Aquerytool 소개 - UBcare 기술 블로그](http://tech.ubcare.co.kr/post/2019/06/07/erd-co-work.html)
+
+- [AQueryTool](https://aquerytool.com/)
 
 ### 9.네트워크
 
